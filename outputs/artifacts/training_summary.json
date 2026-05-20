@@ -1,10 +1,10 @@
 {
   "valid_rows": 253,
-  "iterations_run": 24,
-  "pc_final": 0.6643215224572468,
+  "iterations_run": 26,
+  "pc_final": 0.6496797603768592,
   "cluster_counts": {
-    "Mild": 78,
-    "Moderate": 76,
-    "Severe": 99
+    "Mild": 85,
+    "Moderate": 89,
+    "Severe": 79
   }
 }

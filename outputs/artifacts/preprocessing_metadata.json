@@ -1,7 +1,7 @@
 {
-  "total_rows_raw": 1000,
+  "total_rows_raw": 255,
   "valid_rows": 253,
-  "invalid_rows": 747,
+  "invalid_rows": 2,
   "feature_columns": [
     "Usia Ibu",
     "Usia Kehamilan",
