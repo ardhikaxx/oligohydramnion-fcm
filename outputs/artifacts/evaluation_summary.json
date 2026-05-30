@@ -1,11 +1,11 @@
 {
-  "pc_final": 0.6496797603768592,
+  "pc_final": 0.6434953916075411,
   "pc_interpretasi": "Baik",
   "iterations_run": 26,
   "cluster_counts": {
     "Mild": 85,
-    "Moderate": 89,
-    "Severe": 79
+    "Moderate": 85,
+    "Severe": 83
   },
   "visualizations": {
     "scatter": "E:\\TAAAA\\klasterisasi_oligohydramnion\\outputs\\visualisasi_scatter_plot.png",
