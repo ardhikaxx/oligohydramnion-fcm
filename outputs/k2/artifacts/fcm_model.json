@@ -1,0 +1,62 @@
+{
+  "feature_columns": [
+    "Usia Ibu",
+    "Usia Kehamilan",
+    "Gravida",
+    "Tekanan Darah",
+    "Denyut Jantung Janin",
+    "Nilai AFI",
+    "Kejadian KPD"
+  ],
+  "cluster_labels": {
+    "1": "Rendah",
+    "2": "Tinggi"
+  },
+  "min_values": {
+    "Usia Ibu": 14.0,
+    "Usia Kehamilan": 13.0,
+    "Gravida": 1.0,
+    "Tekanan Darah": 1.0,
+    "Denyut Jantung Janin": 0.0,
+    "Nilai AFI": 1.77,
+    "Kejadian KPD": 0.0
+  },
+  "max_values": {
+    "Usia Ibu": 43.0,
+    "Usia Kehamilan": 41.5,
+    "Gravida": 2.0,
+    "Tekanan Darah": 3.0,
+    "Denyut Jantung Janin": 1.0,
+    "Nilai AFI": 5.0,
+    "Kejadian KPD": 1.0
+  },
+  "centers": [
+    [
+      0.3346675422055149,
+      0.8941601726459024,
+      0.07106641788219095,
+      0.04521705177359541,
+      0.037381724917881526,
+      0.60268488837214,
+      0.714558706892105
+    ],
+    [
+      0.5554568355357008,
+      0.8771889539884682,
+      0.8872865023201331,
+      0.04026967063261684,
+      0.03269068388579973,
+      0.5931089366487973,
+      0.5472419258066765
+    ]
+  ],
+  "params": {
+    "c": 2,
+    "m": 2.0,
+    "epsilon": 0.0001,
+    "max_iter": 100,
+    "seed": 42
+  },
+  "pc_final": 0.6601447990157999,
+  "iterations_run": 68
+}
