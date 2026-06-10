@@ -1,3 +1,3 @@
 ﻿No,Nomor RM,Usia Ibu,Usia Kehamilan,Gravida,Tekanan Darah,Denyut Jantung Janin,Nilai AFI,Kejadian KPD,Tindakan,Gravida Asli,Denyut Jantung Janin Asli,Sistolik,Diastolik,Status Validasi,Alasan Invalid
-57,078727,27.0,,,1,,,,,,,110,70,invalid,Usia Kehamilan tidak valid/kosong; Gravida tidak valid/kosong; Denyut Jantung Janin tidak valid/kosong; Nilai AFI tidak valid/kosong; Kejadian KPD tidak valid/kosong
-233,037598,38.0,,2.0,1,,,,,2.0,,120,80,invalid,Usia Kehamilan tidak valid/kosong; Denyut Jantung Janin tidak valid/kosong; Nilai AFI tidak valid/kosong; Kejadian KPD tidak valid/kosong
+57,078727,27.0,,,1,,,,,,,110,70,invalid,Usia Kehamilan tidak valid/kosong; Gravida tidak valid/kosong; Denyut Jantung Janin tidak valid/kosong; Nilai AFI tidak valid/kosong; Kejadian KPD tidak valid/kosong; Tindakan tidak valid/kosong
+233,037598,38.0,,2.0,1,,,,,2.0,,120,80,invalid,Usia Kehamilan tidak valid/kosong; Denyut Jantung Janin tidak valid/kosong; Nilai AFI tidak valid/kosong; Kejadian KPD tidak valid/kosong; Tindakan tidak valid/kosong

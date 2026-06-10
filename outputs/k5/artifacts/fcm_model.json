@@ -88,5 +88,6 @@
     "seed": 42
   },
   "pc_final": 0.6236944822288579,
+  "objective_final": 20.943712301805128,
   "iterations_run": 25
 }

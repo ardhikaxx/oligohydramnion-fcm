@@ -2,6 +2,7 @@
   "valid_rows": 253,
   "iterations_run": 25,
   "pc_final": 0.6236944822288579,
+  "objective_final": 20.943712301805128,
   "cluster_counts": {
     "Sangat Rendah": 50,
     "Rendah": 68,
