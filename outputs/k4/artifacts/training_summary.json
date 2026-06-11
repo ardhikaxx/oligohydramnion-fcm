@@ -1,0 +1,12 @@
+{
+  "valid_rows": 253,
+  "iterations_run": 18,
+  "pc_final": 0.6738899832617135,
+  "objective_final": 27.146640784253552,
+  "cluster_counts": {
+    "K1": 85,
+    "K2": 68,
+    "K3": 47,
+    "K4": 53
+  }
+}
