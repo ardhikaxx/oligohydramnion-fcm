@@ -1,4 +1,4 @@
-Klaster 5 Sangat Tinggi
+Klaster 5 K5
 
 Fitur: Usia Ibu
 V_kj = (Σ (μ_ik^2 x x_ij)) / (Σ μ_ik^2)

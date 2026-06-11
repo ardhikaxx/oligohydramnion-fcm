@@ -9,9 +9,9 @@
     "Kejadian KPD"
   ],
   "cluster_labels": {
-    "1": "Mild",
-    "2": "Moderate",
-    "3": "Severe"
+    "1": "K1",
+    "2": "K2",
+    "3": "K3"
   },
   "min_values": {
     "Usia Ibu": 14.0,

@@ -3,8 +3,8 @@
   "iterations_run": 26,
   "pc_final": 0.6434953916075412,
   "cluster_counts": {
-    "Mild": 85,
-    "Moderate": 85,
-    "Severe": 83
+    "K1": 85,
+    "K2": 85,
+    "K3": 83
   }
 }

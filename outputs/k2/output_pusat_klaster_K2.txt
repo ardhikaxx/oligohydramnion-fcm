@@ -1,4 +1,4 @@
-Klaster 2 Tinggi
+Klaster 2 K2
 
 Fitur: Usia Ibu
 V_kj = (Σ (μ_ik^2 x x_ij)) / (Σ μ_ik^2)

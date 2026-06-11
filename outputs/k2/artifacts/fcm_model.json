@@ -9,8 +9,8 @@
     "Kejadian KPD"
   ],
   "cluster_labels": {
-    "1": "Rendah",
-    "2": "Tinggi"
+    "1": "K1",
+    "2": "K2"
   },
   "min_values": {
     "Usia Ibu": 14.0,

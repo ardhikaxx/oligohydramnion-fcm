@@ -4,10 +4,10 @@
   "pc_final": 0.6236944822288579,
   "objective_final": 20.943712301805128,
   "cluster_counts": {
-    "Sangat Rendah": 50,
-    "Rendah": 68,
-    "Sedang": 47,
-    "Tinggi": 53,
-    "Sangat Tinggi": 35
+    "K1": 50,
+    "K2": 68,
+    "K3": 47,
+    "K4": 53,
+    "K5": 35
   }
 }

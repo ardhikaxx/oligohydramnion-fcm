@@ -9,11 +9,11 @@
     "Kejadian KPD"
   ],
   "cluster_labels": {
-    "1": "Sangat Rendah",
-    "2": "Rendah",
-    "3": "Sedang",
-    "4": "Tinggi",
-    "5": "Sangat Tinggi"
+    "1": "K1",
+    "2": "K2",
+    "3": "K3",
+    "4": "K4",
+    "5": "K5"
   },
   "min_values": {
     "Usia Ibu": 14.0,

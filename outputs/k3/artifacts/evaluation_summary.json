@@ -3,9 +3,9 @@
   "pc_interpretasi": "Baik",
   "iterations_run": 26,
   "cluster_counts": {
-    "Mild": 85,
-    "Moderate": 85,
-    "Severe": 83
+    "K1": 85,
+    "K2": 85,
+    "K3": 83
   },
   "visualizations": {
     "scatter": "D:\\klasterisasi_oligohydramnion\\outputs\\k3\\visualisasi_scatter_plot.png",

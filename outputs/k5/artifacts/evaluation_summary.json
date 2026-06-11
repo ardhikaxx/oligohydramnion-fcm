@@ -3,11 +3,11 @@
   "pc_interpretasi": "Baik",
   "iterations_run": 25,
   "cluster_counts": {
-    "Sangat Rendah": 114,
-    "Rendah": 68,
-    "Sedang": 71,
-    "Tinggi": 0,
-    "Sangat Tinggi": 0
+    "K1": 114,
+    "K2": 68,
+    "K3": 71,
+    "K4": 0,
+    "K5": 0
   },
   "visualizations": {
     "scatter": "D:\\klasterisasi_oligohydramnion\\outputs\\k5\\visualisasi_scatter_plot.png",
