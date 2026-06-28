@@ -1,0 +1,32 @@
+{
+  "total_rows_raw": 255,
+  "valid_rows": 253,
+  "invalid_rows": 2,
+  "feature_columns": [
+    "Usia Ibu",
+    "Usia Kehamilan",
+    "Gravida",
+    "Tekanan Darah",
+    "Denyut Jantung Janin",
+    "Nilai AFI",
+    "Kejadian KPD"
+  ],
+  "min_values": {
+    "Usia Ibu": 14.0,
+    "Usia Kehamilan": 13.0,
+    "Gravida": 1.0,
+    "Tekanan Darah": 1.0,
+    "Denyut Jantung Janin": 0.0,
+    "Nilai AFI": 1.77,
+    "Kejadian KPD": 0.0
+  },
+  "max_values": {
+    "Usia Ibu": 43.0,
+    "Usia Kehamilan": 41.5,
+    "Gravida": 2.0,
+    "Tekanan Darah": 3.0,
+    "Denyut Jantung Janin": 1.0,
+    "Nilai AFI": 5.0,
+    "Kejadian KPD": 1.0
+  }
+}
