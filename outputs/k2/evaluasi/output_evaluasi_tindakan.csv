@@ -1,254 +1,254 @@
-﻿No,Nomor RM,K1,K2,μ1²,μ2²,Hasil,Prediksi Tindakan,Tindakan Aktual,Tindakan Aktual Bersih,Prediksi Ringkas,Kesesuaian Tindakan
-1,54121,0.206137,0.793863,0.042492,0.630219,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-2,65046,0.28604,0.71396,0.081819,0.509739,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-3,78533,0.200649,0.799351,0.04026,0.638963,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-4,83531,0.886686,0.113314,0.786213,0.01284,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-5,79120,0.256447,0.743553,0.065765,0.552871,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-6,72080,0.667527,0.332473,0.445592,0.110538,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-7,78929,0.200287,0.799713,0.040115,0.639542,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-8,84194,0.67421,0.32579,0.454559,0.106139,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-9,78011,0.831219,0.168781,0.690925,0.028487,K1,Konservatif / Induksi / Partus spontan,partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
-10,82593,0.885467,0.114533,0.784052,0.013118,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-11,78906,0.831336,0.168664,0.691119,0.028448,K1,Konservatif / Induksi / Partus spontan,partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
-12,85546,0.195999,0.804001,0.038416,0.646418,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-13,79619,0.368751,0.631249,0.135977,0.398475,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-14,51350,0.370703,0.629297,0.137421,0.396015,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-15,80227,0.675863,0.324137,0.45679,0.105065,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-16,65046,0.672432,0.327568,0.452165,0.107301,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-17,85693,0.824218,0.175782,0.679335,0.030899,K1,Konservatif / Induksi / Partus spontan,konservatif,konservatif,konservatif / induksi / partus spontan,Perlu Review
-18,83531,0.790702,0.209298,0.625209,0.043806,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-19,39337,0.260636,0.739364,0.067931,0.546658,K2,SC cito / SC,sc (IUGR),sc (iugr),sc cito / sc,Selaras
-20,60524,0.651349,0.348651,0.424255,0.121558,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-21,66785,0.225323,0.774677,0.05077,0.600125,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-22,88516,0.205229,0.794771,0.042119,0.631661,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-23,81307,0.216646,0.783354,0.046935,0.613644,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-24,83651,0.647845,0.352155,0.419703,0.124013,K1,Konservatif / Induksi / Partus spontan,konservatif,konservatif,konservatif / induksi / partus spontan,Perlu Review
-25,77812,0.781526,0.218474,0.610782,0.047731,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-26,75039,0.201906,0.798094,0.040766,0.636953,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-27,81405,0.63505,0.36495,0.403288,0.133189,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-28,71392,0.31948,0.68052,0.102067,0.463108,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-29,49230,0.214995,0.785005,0.046223,0.616233,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-30,84185,0.580792,0.419208,0.33732,0.175735,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-31,88623,0.193691,0.806309,0.037516,0.650135,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-32,81546,0.691846,0.308154,0.478651,0.094959,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-33,86807,0.808746,0.191254,0.65407,0.036578,K1,Konservatif / Induksi / Partus spontan,sctp,sctp,konservatif / induksi / partus spontan,Perlu Review
-34,55509,0.282045,0.717955,0.07955,0.515459,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-35,77722,0.361788,0.638212,0.130891,0.407314,K2,SC cito / SC,konservatif,konservatif,sc cito / sc,Perlu Review
-36,53301,0.671216,0.328784,0.450531,0.108099,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-37,48536,0.222128,0.777872,0.049341,0.605086,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-38,79094,0.6493,0.3507,0.421591,0.12299,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-39,77937,0.206817,0.793183,0.042773,0.629139,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-40,44571,0.771641,0.228359,0.59543,0.052148,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-41,83638,0.200982,0.799018,0.040394,0.63843,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-42,79609,0.211751,0.788249,0.044838,0.621337,K2,SC cito / SC,sctp,sctp,sc cito / sc,Selaras
-43,82607,0.235165,0.764835,0.055303,0.584973,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-44,80191,0.651349,0.348651,0.424255,0.121558,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-45,58314,0.205813,0.794187,0.042359,0.630732,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-46,82192,0.823263,0.176737,0.677762,0.031236,K1,Konservatif / Induksi / Partus spontan,konservatif,konservatif,konservatif / induksi / partus spontan,Perlu Review
-47,87913,0.747391,0.252609,0.558594,0.063811,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-48,87175,0.910168,0.089832,0.828407,0.00807,K1,Konservatif / Induksi / Partus spontan,partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
-49,80933,0.781155,0.218845,0.610203,0.047893,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-50,87409,0.186745,0.813255,0.034874,0.661384,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-51,88333,0.202431,0.797569,0.040978,0.636117,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-52,87451,0.912789,0.087211,0.833184,0.007606,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-53,85529,0.649838,0.350162,0.422289,0.122614,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-54,86072,0.255945,0.744055,0.065508,0.553618,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-55,85514,0.257705,0.742295,0.066412,0.551002,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-56,84285,0.886768,0.113232,0.786358,0.012821,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-58,87426,0.185413,0.814587,0.034378,0.663551,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-59,81404,0.194369,0.805631,0.037779,0.649041,K2,SC cito / SC,partus spontan,partus spontan,sc cito / sc,Perlu Review
-60,84432,0.190042,0.809958,0.036116,0.656032,K2,SC cito / SC,sctp,sctp,sc cito / sc,Selaras
-61,77430,0.198662,0.801338,0.039467,0.642143,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-62,64391,0.667748,0.332252,0.445887,0.110391,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-63,62023,0.183672,0.816328,0.033735,0.666391,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-64,84339,0.681239,0.318761,0.464087,0.101608,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-65,42737,0.389016,0.610984,0.151333,0.373302,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-66,84592,0.675324,0.324676,0.456062,0.105415,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-67,52206,0.205813,0.794187,0.042359,0.630732,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-68,84593,0.201322,0.798678,0.040531,0.637886,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-69,87426,0.185413,0.814587,0.034378,0.663551,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-70,83217,0.196541,0.803459,0.038628,0.645546,K2,SC cito / SC,ada,ada,sc cito / sc,Perlu Review
-71,86223,0.652487,0.347513,0.425739,0.120765,K1,Konservatif / Induksi / Partus spontan,"pro sc, nst, od","pro sc,nst,od",konservatif / induksi / partus spontan,Perlu Review
-72,63394,0.681511,0.318489,0.464457,0.101435,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-73,84636,0.18497,0.81503,0.034214,0.664273,K2,SC cito / SC,"od, sctp","od,sctp",sc cito / sc,Selaras
-74,85794,0.781739,0.218261,0.611117,0.047638,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-75,86437,0.914791,0.085209,0.836842,0.007261,K1,Konservatif / Induksi / Partus spontan,"pro sc, nst","pro sc,nst",konservatif / induksi / partus spontan,Perlu Review
-76,66881,0.18722,0.81278,0.035051,0.660611,K2,SC cito / SC,sctp,sctp,sc cito / sc,Selaras
-77,86214,0.680483,0.319517,0.463057,0.102091,K1,Konservatif / Induksi / Partus spontan,"sc, nst","sc,nst",konservatif / induksi / partus spontan,Perlu Review
-78,85616,0.278873,0.721127,0.07777,0.520025,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-79,86405,0.886245,0.113755,0.78543,0.01294,K1,Konservatif / Induksi / Partus spontan,"sc, pro induksi","sc,pro induksi",konservatif / induksi / partus spontan,Perlu Review
-80,85775,0.689112,0.310888,0.474876,0.096651,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-81,83727,0.680708,0.319292,0.463364,0.101947,K1,Konservatif / Induksi / Partus spontan,"od, sc","od,sc",konservatif / induksi / partus spontan,Perlu Review
-82,80250,0.821916,0.178084,0.675546,0.031714,K1,Konservatif / Induksi / Partus spontan,partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
-83,83122,0.828581,0.171419,0.686546,0.029385,K1,Konservatif / Induksi / Partus spontan,perawatan,perawatan,konservatif / induksi / partus spontan,Perlu Review
-84,83131,0.671267,0.328733,0.450599,0.108066,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-85,84222,0.896363,0.103637,0.803467,0.010741,K1,Konservatif / Induksi / Partus spontan,"od, partus spontan","od,partus spontan",konservatif / induksi / partus spontan,Selaras
-86,64788,0.822979,0.177021,0.677294,0.031337,K1,Konservatif / Induksi / Partus spontan,konservatif,konservatif,konservatif / induksi / partus spontan,Perlu Review
-87,82610,0.663362,0.336638,0.44005,0.113325,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-88,81350,0.674501,0.325499,0.454952,0.105949,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-89,81530,0.882352,0.117648,0.778545,0.013841,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-90,78909,0.826669,0.173331,0.683382,0.030044,K1,Konservatif / Induksi / Partus spontan,partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
-91,84829,0.206326,0.793674,0.04257,0.629918,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-92,57232,0.625738,0.374262,0.391548,0.140072,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-93,83536,0.824781,0.175219,0.680263,0.030702,K1,Konservatif / Induksi / Partus spontan,partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
-94,80096,0.841132,0.158868,0.707503,0.025239,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-95,83503,0.184223,0.815777,0.033938,0.665492,K2,SC cito / SC,"od, sc","od,sc",sc cito / sc,Selaras
-96,8051,0.206506,0.793494,0.042645,0.629633,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-97,83418,0.912267,0.087733,0.832232,0.007697,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-98,46395,0.205517,0.794483,0.042237,0.631203,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-99,50010,0.262362,0.737638,0.068834,0.544109,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-100,80486,0.69171,0.30829,0.478462,0.095043,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-101,82720,0.232717,0.767283,0.054157,0.588723,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-102,80563,0.829333,0.170667,0.687793,0.029127,K1,Konservatif / Induksi / Partus spontan,partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
-103,80818,0.608278,0.391722,0.370002,0.153446,K1,Konservatif / Induksi / Partus spontan,kuret,kuret,konservatif / induksi / partus spontan,Perlu Review
-104,79477,0.217846,0.782154,0.047457,0.611765,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-105,81021,0.235352,0.764648,0.05539,0.584687,K2,SC cito / SC,"induksi, kuret","induksi,kuret",sc cito / sc,Perlu Review
-106,88998,0.681019,0.318981,0.463788,0.101749,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-107,88229,0.62865,0.37135,0.395201,0.137901,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-108,89088,0.831219,0.168781,0.690925,0.028487,K1,Konservatif / Induksi / Partus spontan,partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
-109,83829,0.90191,0.09809,0.813442,0.009622,K1,Konservatif / Induksi / Partus spontan,"sc, od","sc,od",konservatif / induksi / partus spontan,Perlu Review
-110,88400,0.646762,0.353238,0.418301,0.124777,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-111,88926,0.68951,0.31049,0.475424,0.096404,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-112,86492,0.786182,0.213818,0.618081,0.045718,K1,Konservatif / Induksi / Partus spontan,partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
-113,85614,0.183017,0.816983,0.033495,0.667462,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-114,88498,0.644626,0.355374,0.415543,0.12629,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-115,82435,0.901109,0.098891,0.811998,0.009779,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-116,89263,0.679605,0.320395,0.461863,0.102653,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-117,87902,0.254342,0.745658,0.06469,0.556006,K2,SC cito / SC,sctp,sctp,sc cito / sc,Selaras
-118,88681,0.186709,0.813291,0.03486,0.661442,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-119,87813,0.911332,0.088668,0.830526,0.007862,K1,Konservatif / Induksi / Partus spontan,"induksi, sctp","induksi,sctp",konservatif / induksi / partus spontan,Perlu Review
-120,89298,0.883316,0.116684,0.780247,0.013615,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-121,84505,0.881732,0.118268,0.777452,0.013987,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-122,83087,0.915558,0.084442,0.838246,0.007131,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-123,85718,0.654479,0.345521,0.428342,0.119385,K1,Konservatif / Induksi / Partus spontan,sctp,sctp,konservatif / induksi / partus spontan,Perlu Review
-124,84685,0.203963,0.796037,0.041601,0.633675,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-125,83602,0.192815,0.807185,0.037178,0.651548,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-126,85101,0.189807,0.810193,0.036027,0.656413,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-127,84902,0.635839,0.364161,0.404292,0.132613,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-128,84989,0.662077,0.337923,0.438346,0.114192,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-129,83829,0.90191,0.09809,0.813442,0.009622,K1,Konservatif / Induksi / Partus spontan,"od, sc","od,sc",konservatif / induksi / partus spontan,Perlu Review
-130,88561,0.898583,0.101417,0.807452,0.010285,K1,Konservatif / Induksi / Partus spontan,sctp,sctp,konservatif / induksi / partus spontan,Perlu Review
-131,65513,0.193999,0.806001,0.037636,0.649637,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-132,30989,0.24734,0.75266,0.061177,0.566497,K2,SC cito / SC,sctp,sctp,sc cito / sc,Selaras
-133,84721,0.204336,0.795664,0.041753,0.633082,K2,SC cito / SC,partus spontan,partus spontan,sc cito / sc,Perlu Review
-134,46297,0.254997,0.745003,0.065024,0.555029,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-135,83030,0.186373,0.813627,0.034735,0.661989,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-136,82379,0.261274,0.738726,0.068264,0.545717,K2,SC cito / SC,partus spontan,partus spontan,sc cito / sc,Perlu Review
-137,83142,0.703918,0.296082,0.4955,0.087665,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-138,82471,0.186779,0.813221,0.034886,0.661329,K2,SC cito / SC,"od, sc","od,sc",sc cito / sc,Selaras
-139,88369,0.322217,0.677783,0.103824,0.459389,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-140,87596,0.682308,0.317692,0.465544,0.100928,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-141,85362,0.202044,0.797956,0.040822,0.636734,K2,SC cito / SC,"sc, od","sc,od",sc cito / sc,Selaras
-142,87789,0.885467,0.114533,0.784052,0.013118,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-143,51342,0.211751,0.788249,0.044838,0.621337,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-144,58850,0.215565,0.784435,0.046468,0.615339,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-145,85548,0.650182,0.349818,0.422737,0.122372,K1,Konservatif / Induksi / Partus spontan,"perawatan konservatif, nst","perawatan konservatif,nst",konservatif / induksi / partus spontan,Perlu Review
-146,87964,0.186791,0.813209,0.034891,0.661308,K2,SC cito / SC,sctp,sctp,sc cito / sc,Selaras
-147,87254,0.914791,0.085209,0.836842,0.007261,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-148,86417,0.382695,0.617305,0.146456,0.381065,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-149,83858,0.288421,0.711579,0.083186,0.506345,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-150,85971,0.270291,0.729709,0.073057,0.532476,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-151,74167,0.252158,0.747842,0.063584,0.559268,K2,SC cito / SC,partus spontan,partus spontan,sc cito / sc,Perlu Review
-152,34095,0.188206,0.811794,0.035421,0.65901,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-153,83843,0.263338,0.736662,0.069347,0.542671,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-154,78773,0.914445,0.085555,0.836209,0.00732,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-155,86953,0.683861,0.316139,0.467666,0.099944,K1,Konservatif / Induksi / Partus spontan,sctp,sctp,konservatif / induksi / partus spontan,Perlu Review
-156,76273,0.190332,0.809668,0.036226,0.655563,K2,SC cito / SC,sctp,sctp,sc cito / sc,Selaras
-157,42343,0.186702,0.813298,0.034858,0.661454,K2,SC cito / SC,cito sc,cito sc,sc cito / sc,Selaras
-158,78882,0.677343,0.322657,0.458794,0.104107,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-159,84456,0.250243,0.749757,0.062622,0.562136,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-160,78671,0.875096,0.124904,0.765792,0.015601,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-161,84449,0.805765,0.194235,0.649257,0.037727,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-162,78979,0.184396,0.815604,0.034002,0.665211,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-163,86554,0.193691,0.806309,0.037516,0.650135,K2,SC cito / SC,sctp,sctp,sc cito / sc,Selaras
-164,57707,0.67421,0.32579,0.454559,0.106139,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-165,83952,0.676835,0.323165,0.458106,0.104436,K1,Konservatif / Induksi / Partus spontan,sctp,sctp,konservatif / induksi / partus spontan,Perlu Review
-166,77787,0.881175,0.118825,0.77647,0.014119,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-167,83442,0.828322,0.171678,0.686118,0.029473,K1,Konservatif / Induksi / Partus spontan,"sc, nst","sc,nst",konservatif / induksi / partus spontan,Perlu Review
-168,76497,0.881972,0.118028,0.777874,0.013931,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-169,73468,0.225563,0.774437,0.050879,0.599753,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-170,77798,0.256766,0.743234,0.065929,0.552397,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-171,82967,0.228889,0.771111,0.05239,0.594612,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-172,54244,0.881711,0.118289,0.777415,0.013992,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-173,86261,0.197035,0.802965,0.038823,0.644753,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-174,82730,0.682942,0.317058,0.466409,0.100526,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-175,24058,0.219917,0.780083,0.048363,0.60853,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-176,81818,0.830738,0.169262,0.690125,0.02865,K1,Konservatif / Induksi / Partus spontan,partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
-177,78949,0.875096,0.124904,0.765792,0.015601,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-178,81713,0.254754,0.745246,0.0649,0.555392,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-179,83467,0.235356,0.764644,0.055392,0.584681,K2,SC cito / SC,partus spontan,partus spontan,sc cito / sc,Perlu Review
-180,79770,0.775098,0.224902,0.600776,0.050581,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-181,83355,0.664709,0.335291,0.441838,0.11242,K1,Konservatif / Induksi / Partus spontan,sctp,sctp,konservatif / induksi / partus spontan,Perlu Review
-182,81595,0.881752,0.118248,0.777486,0.013983,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-183,83455,0.210472,0.789528,0.044298,0.623355,K2,SC cito / SC,"od, sc","od,sc",sc cito / sc,Selaras
-184,58283,0.88392,0.11608,0.781314,0.013475,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-185,88852,0.914738,0.085262,0.836746,0.00727,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-186,81972,0.645892,0.354108,0.417176,0.125393,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-187,54954,0.214178,0.785822,0.045872,0.617517,K2,SC cito / SC,"induksi, kuret","induksi,kuret",sc cito / sc,Perlu Review
-188,78187,0.253358,0.746642,0.06419,0.557474,K2,SC cito / SC,partus spontan,partus spontan,sc cito / sc,Perlu Review
-189,78668,0.900978,0.099022,0.811761,0.009805,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-190,77631,0.251033,0.748967,0.063018,0.560952,K2,SC cito / SC,partus spontan,partus spontan,sc cito / sc,Perlu Review
-191,78949,0.875096,0.124904,0.765792,0.015601,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-192,77088,0.756464,0.243536,0.572237,0.05931,K1,Konservatif / Induksi / Partus spontan,konservatif,konservatif,konservatif / induksi / partus spontan,Perlu Review
-193,87557,0.189666,0.810334,0.035973,0.656641,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-194,61198,0.230902,0.769098,0.053316,0.591512,K2,SC cito / SC,sctp,sctp,sc cito / sc,Selaras
-195,82353,0.681148,0.318852,0.463962,0.101667,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-196,62676,0.914598,0.085402,0.836489,0.007294,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-197,85148,0.898583,0.101417,0.807452,0.010285,K1,Konservatif / Induksi / Partus spontan,sctp,sctp,konservatif / induksi / partus spontan,Perlu Review
-198,79702,0.776229,0.223771,0.602531,0.050074,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-199,86159,0.230514,0.769486,0.053137,0.592109,K2,SC cito / SC,sctp,sctp,sc cito / sc,Selaras
-200,79712,0.873623,0.126377,0.763217,0.015971,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-201,54244,0.214387,0.785613,0.045962,0.617188,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-202,79720,0.884282,0.115718,0.781955,0.013391,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-203,50542,0.270351,0.729649,0.073089,0.532388,K2,SC cito / SC,"sc, od","sc,od",sc cito / sc,Selaras
-204,31610,0.189937,0.810063,0.036076,0.656202,K2,SC cito / SC,sctp,sctp,sc cito / sc,Selaras
-205,82669,0.233717,0.766283,0.054624,0.58719,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-206,78884,0.203253,0.796747,0.041312,0.634806,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-207,85054,0.886279,0.113721,0.78549,0.012933,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-208,75041,0.683579,0.316421,0.46728,0.100122,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-209,82253,0.274014,0.725986,0.075083,0.527056,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-210,44025,0.657277,0.342723,0.432013,0.117459,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-211,81957,0.243135,0.756865,0.059115,0.572845,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-212,79851,0.905037,0.094963,0.819091,0.009018,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-213,77756,0.293438,0.706562,0.086106,0.499229,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-214,78592,0.827366,0.172634,0.684534,0.029803,K1,Konservatif / Induksi / Partus spontan,partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
-215,78948,0.205813,0.794187,0.042359,0.630732,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-216,80084,0.197947,0.802053,0.039183,0.643289,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-217,82945,0.684191,0.315809,0.468118,0.099735,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-218,78132,0.87926,0.12074,0.773097,0.014578,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-219,89088,0.227415,0.772585,0.051718,0.596887,K2,SC cito / SC,sctp,sctp,sc cito / sc,Selaras
-220,80866,0.914538,0.085462,0.83638,0.007304,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-221,83974,0.245076,0.754924,0.060062,0.56991,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-222,80884,0.586417,0.413583,0.343885,0.171051,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-223,84187,0.195789,0.804211,0.038333,0.646756,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-224,79205,0.880499,0.119501,0.775278,0.014281,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-225,83890,0.85706,0.14294,0.734552,0.020432,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-226,79525,0.254404,0.745596,0.064722,0.555913,K2,SC cito / SC,partus spontan,partus spontan,sc cito / sc,Perlu Review
-227,80494,0.905037,0.094963,0.819091,0.009018,K1,Konservatif / Induksi / Partus spontan,partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
-228,80926,0.89391,0.10609,0.799075,0.011255,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-229,81781,0.729949,0.270051,0.532826,0.072927,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-230,78701,0.650764,0.349236,0.423493,0.121966,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-231,77937,0.203749,0.796251,0.041514,0.634015,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-232,81069,0.692185,0.307815,0.479121,0.09475,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-234,50321,0.235627,0.764373,0.05552,0.584266,K2,SC cito / SC,sctp,sctp,sc cito / sc,Selaras
-235,87380,0.756559,0.243441,0.572381,0.059264,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-236,81564,0.633435,0.366565,0.401239,0.13437,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-237,87498,0.658888,0.341112,0.434133,0.116358,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-238,84297,0.673676,0.326324,0.453839,0.106487,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-239,85773,0.911332,0.088668,0.830526,0.007862,K1,Konservatif / Induksi / Partus spontan,"nst, od, sc","nst,od,sc",konservatif / induksi / partus spontan,Perlu Review
-240,84547,0.873551,0.126449,0.763092,0.015989,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-241,83790,0.661171,0.338829,0.437147,0.114805,K1,Konservatif / Induksi / Partus spontan,"od, sc","od,sc",konservatif / induksi / partus spontan,Perlu Review
-242,84788,0.67047,0.32953,0.44953,0.10859,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-243,78086,0.278361,0.721639,0.077485,0.520763,K2,SC cito / SC,"od, sc","od,sc",sc cito / sc,Selaras
-244,84816,0.251396,0.748604,0.0632,0.560409,K2,SC cito / SC,partus spontan,partus spontan,sc cito / sc,Perlu Review
-245,84195,0.250633,0.749367,0.062817,0.561551,K2,SC cito / SC,partus spontan,partus spontan,sc cito / sc,Perlu Review
-246,84864,0.286147,0.713853,0.08188,0.509586,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-247,78880,0.246042,0.753958,0.060537,0.568453,K2,SC cito / SC,"od, sc","od,sc",sc cito / sc,Selaras
-248,84871,0.829783,0.170217,0.68854,0.028974,K1,Konservatif / Induksi / Partus spontan,partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
-249,64788,0.856748,0.143252,0.734017,0.020521,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-250,40605,0.254631,0.745369,0.064837,0.555575,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
-251,84886,0.87926,0.12074,0.773097,0.014578,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-252,84889,0.65296,0.34704,0.426357,0.120436,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-253,84916,0.728625,0.271375,0.530894,0.073644,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-254,85017,0.677145,0.322855,0.458525,0.104236,K1,Konservatif / Induksi / Partus spontan,sc,sc,konservatif / induksi / partus spontan,Perlu Review
-255,84661,0.357107,0.642893,0.127525,0.413312,K2,SC cito / SC,sc,sc,sc cito / sc,Selaras
+﻿No,Nomor RM,K1,K2,μ1²,μ2²,Hasil,Tindakan Aktual,Prediksi Tindakan,Tindakan Aktual Bersih,Prediksi Ringkas,Kesesuaian Tindakan
+1,54121,0.206137,0.793863,0.042492,0.630219,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+2,65046,0.28604,0.71396,0.081819,0.509739,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+3,78533,0.200649,0.799351,0.04026,0.638963,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+4,83531,0.886686,0.113314,0.786213,0.01284,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+5,79120,0.256447,0.743553,0.065765,0.552871,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+6,72080,0.667527,0.332473,0.445592,0.110538,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+7,78929,0.200287,0.799713,0.040115,0.639542,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+8,84194,0.67421,0.32579,0.454559,0.106139,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+9,78011,0.831219,0.168781,0.690925,0.028487,K1,partus spontan,Konservatif / Induksi / Partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
+10,82593,0.885467,0.114533,0.784052,0.013118,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+11,78906,0.831336,0.168664,0.691119,0.028448,K1,partus spontan,Konservatif / Induksi / Partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
+12,85546,0.195999,0.804001,0.038416,0.646418,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+13,79619,0.368751,0.631249,0.135977,0.398475,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+14,51350,0.370703,0.629297,0.137421,0.396015,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+15,80227,0.675863,0.324137,0.45679,0.105065,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+16,65046,0.672432,0.327568,0.452165,0.107301,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+17,85693,0.824218,0.175782,0.679335,0.030899,K1,konservatif,Konservatif / Induksi / Partus spontan,konservatif,konservatif / induksi / partus spontan,Perlu Review
+18,83531,0.790702,0.209298,0.625209,0.043806,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+19,39337,0.260636,0.739364,0.067931,0.546658,K2,sc (IUGR),SC cito / SC,sc (iugr),sc cito / sc,Selaras
+20,60524,0.651349,0.348651,0.424255,0.121558,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+21,66785,0.225323,0.774677,0.05077,0.600125,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+22,88516,0.205229,0.794771,0.042119,0.631661,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+23,81307,0.216646,0.783354,0.046935,0.613644,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+24,83651,0.647845,0.352155,0.419703,0.124013,K1,konservatif,Konservatif / Induksi / Partus spontan,konservatif,konservatif / induksi / partus spontan,Perlu Review
+25,77812,0.781526,0.218474,0.610782,0.047731,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+26,75039,0.201906,0.798094,0.040766,0.636953,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+27,81405,0.63505,0.36495,0.403288,0.133189,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+28,71392,0.31948,0.68052,0.102067,0.463108,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+29,49230,0.214995,0.785005,0.046223,0.616233,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+30,84185,0.580792,0.419208,0.33732,0.175735,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+31,88623,0.193691,0.806309,0.037516,0.650135,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+32,81546,0.691846,0.308154,0.478651,0.094959,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+33,86807,0.808746,0.191254,0.65407,0.036578,K1,sctp,Konservatif / Induksi / Partus spontan,sctp,konservatif / induksi / partus spontan,Perlu Review
+34,55509,0.282045,0.717955,0.07955,0.515459,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+35,77722,0.361788,0.638212,0.130891,0.407314,K2,konservatif,SC cito / SC,konservatif,sc cito / sc,Perlu Review
+36,53301,0.671216,0.328784,0.450531,0.108099,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+37,48536,0.222128,0.777872,0.049341,0.605086,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+38,79094,0.6493,0.3507,0.421591,0.12299,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+39,77937,0.206817,0.793183,0.042773,0.629139,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+40,44571,0.771641,0.228359,0.59543,0.052148,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+41,83638,0.200982,0.799018,0.040394,0.63843,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+42,79609,0.211751,0.788249,0.044838,0.621337,K2,sctp,SC cito / SC,sctp,sc cito / sc,Selaras
+43,82607,0.235165,0.764835,0.055303,0.584973,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+44,80191,0.651349,0.348651,0.424255,0.121558,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+45,58314,0.205813,0.794187,0.042359,0.630732,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+46,82192,0.823263,0.176737,0.677762,0.031236,K1,konservatif,Konservatif / Induksi / Partus spontan,konservatif,konservatif / induksi / partus spontan,Perlu Review
+47,87913,0.747391,0.252609,0.558594,0.063811,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+48,87175,0.910168,0.089832,0.828407,0.00807,K1,partus spontan,Konservatif / Induksi / Partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
+49,80933,0.781155,0.218845,0.610203,0.047893,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+50,87409,0.186745,0.813255,0.034874,0.661384,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+51,88333,0.202431,0.797569,0.040978,0.636117,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+52,87451,0.912789,0.087211,0.833184,0.007606,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+53,85529,0.649838,0.350162,0.422289,0.122614,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+54,86072,0.255945,0.744055,0.065508,0.553618,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+55,85514,0.257705,0.742295,0.066412,0.551002,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+56,84285,0.886768,0.113232,0.786358,0.012821,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+58,87426,0.185413,0.814587,0.034378,0.663551,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+59,81404,0.194369,0.805631,0.037779,0.649041,K2,partus spontan,SC cito / SC,partus spontan,sc cito / sc,Perlu Review
+60,84432,0.190042,0.809958,0.036116,0.656032,K2,sctp,SC cito / SC,sctp,sc cito / sc,Selaras
+61,77430,0.198662,0.801338,0.039467,0.642143,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+62,64391,0.667748,0.332252,0.445887,0.110391,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+63,62023,0.183672,0.816328,0.033735,0.666391,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+64,84339,0.681239,0.318761,0.464087,0.101608,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+65,42737,0.389016,0.610984,0.151333,0.373302,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+66,84592,0.675324,0.324676,0.456062,0.105415,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+67,52206,0.205813,0.794187,0.042359,0.630732,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+68,84593,0.201322,0.798678,0.040531,0.637886,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+69,87426,0.185413,0.814587,0.034378,0.663551,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+70,83217,0.196541,0.803459,0.038628,0.645546,K2,ada,SC cito / SC,ada,sc cito / sc,Perlu Review
+71,86223,0.652487,0.347513,0.425739,0.120765,K1,"pro sc, nst, od",Konservatif / Induksi / Partus spontan,"pro sc,nst,od",konservatif / induksi / partus spontan,Perlu Review
+72,63394,0.681511,0.318489,0.464457,0.101435,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+73,84636,0.18497,0.81503,0.034214,0.664273,K2,"od, sctp",SC cito / SC,"od,sctp",sc cito / sc,Selaras
+74,85794,0.781739,0.218261,0.611117,0.047638,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+75,86437,0.914791,0.085209,0.836842,0.007261,K1,"pro sc, nst",Konservatif / Induksi / Partus spontan,"pro sc,nst",konservatif / induksi / partus spontan,Perlu Review
+76,66881,0.18722,0.81278,0.035051,0.660611,K2,sctp,SC cito / SC,sctp,sc cito / sc,Selaras
+77,86214,0.680483,0.319517,0.463057,0.102091,K1,"sc, nst",Konservatif / Induksi / Partus spontan,"sc,nst",konservatif / induksi / partus spontan,Perlu Review
+78,85616,0.278873,0.721127,0.07777,0.520025,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+79,86405,0.886245,0.113755,0.78543,0.01294,K1,"sc, pro induksi",Konservatif / Induksi / Partus spontan,"sc,pro induksi",konservatif / induksi / partus spontan,Perlu Review
+80,85775,0.689112,0.310888,0.474876,0.096651,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+81,83727,0.680708,0.319292,0.463364,0.101947,K1,"od, sc",Konservatif / Induksi / Partus spontan,"od,sc",konservatif / induksi / partus spontan,Perlu Review
+82,80250,0.821916,0.178084,0.675546,0.031714,K1,partus spontan,Konservatif / Induksi / Partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
+83,83122,0.828581,0.171419,0.686546,0.029385,K1,perawatan,Konservatif / Induksi / Partus spontan,perawatan,konservatif / induksi / partus spontan,Perlu Review
+84,83131,0.671267,0.328733,0.450599,0.108066,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+85,84222,0.896363,0.103637,0.803467,0.010741,K1,"od, partus spontan",Konservatif / Induksi / Partus spontan,"od,partus spontan",konservatif / induksi / partus spontan,Selaras
+86,64788,0.822979,0.177021,0.677294,0.031337,K1,konservatif,Konservatif / Induksi / Partus spontan,konservatif,konservatif / induksi / partus spontan,Perlu Review
+87,82610,0.663362,0.336638,0.44005,0.113325,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+88,81350,0.674501,0.325499,0.454952,0.105949,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+89,81530,0.882352,0.117648,0.778545,0.013841,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+90,78909,0.826669,0.173331,0.683382,0.030044,K1,partus spontan,Konservatif / Induksi / Partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
+91,84829,0.206326,0.793674,0.04257,0.629918,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+92,57232,0.625738,0.374262,0.391548,0.140072,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+93,83536,0.824781,0.175219,0.680263,0.030702,K1,partus spontan,Konservatif / Induksi / Partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
+94,80096,0.841132,0.158868,0.707503,0.025239,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+95,83503,0.184223,0.815777,0.033938,0.665492,K2,"od, sc",SC cito / SC,"od,sc",sc cito / sc,Selaras
+96,8051,0.206506,0.793494,0.042645,0.629633,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+97,83418,0.912267,0.087733,0.832232,0.007697,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+98,46395,0.205517,0.794483,0.042237,0.631203,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+99,50010,0.262362,0.737638,0.068834,0.544109,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+100,80486,0.69171,0.30829,0.478462,0.095043,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+101,82720,0.232717,0.767283,0.054157,0.588723,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+102,80563,0.829333,0.170667,0.687793,0.029127,K1,partus spontan,Konservatif / Induksi / Partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
+103,80818,0.608278,0.391722,0.370002,0.153446,K1,kuret,Konservatif / Induksi / Partus spontan,kuret,konservatif / induksi / partus spontan,Perlu Review
+104,79477,0.217846,0.782154,0.047457,0.611765,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+105,81021,0.235352,0.764648,0.05539,0.584687,K2,"induksi, kuret",SC cito / SC,"induksi,kuret",sc cito / sc,Perlu Review
+106,88998,0.681019,0.318981,0.463788,0.101749,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+107,88229,0.62865,0.37135,0.395201,0.137901,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+108,89088,0.831219,0.168781,0.690925,0.028487,K1,partus spontan,Konservatif / Induksi / Partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
+109,83829,0.90191,0.09809,0.813442,0.009622,K1,"sc, od",Konservatif / Induksi / Partus spontan,"sc,od",konservatif / induksi / partus spontan,Perlu Review
+110,88400,0.646762,0.353238,0.418301,0.124777,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+111,88926,0.68951,0.31049,0.475424,0.096404,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+112,86492,0.786182,0.213818,0.618081,0.045718,K1,partus spontan,Konservatif / Induksi / Partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
+113,85614,0.183017,0.816983,0.033495,0.667462,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+114,88498,0.644626,0.355374,0.415543,0.12629,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+115,82435,0.901109,0.098891,0.811998,0.009779,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+116,89263,0.679605,0.320395,0.461863,0.102653,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+117,87902,0.254342,0.745658,0.06469,0.556006,K2,sctp,SC cito / SC,sctp,sc cito / sc,Selaras
+118,88681,0.186709,0.813291,0.03486,0.661442,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+119,87813,0.911332,0.088668,0.830526,0.007862,K1,"induksi, sctp",Konservatif / Induksi / Partus spontan,"induksi,sctp",konservatif / induksi / partus spontan,Perlu Review
+120,89298,0.883316,0.116684,0.780247,0.013615,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+121,84505,0.881732,0.118268,0.777452,0.013987,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+122,83087,0.915558,0.084442,0.838246,0.007131,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+123,85718,0.654479,0.345521,0.428342,0.119385,K1,sctp,Konservatif / Induksi / Partus spontan,sctp,konservatif / induksi / partus spontan,Perlu Review
+124,84685,0.203963,0.796037,0.041601,0.633675,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+125,83602,0.192815,0.807185,0.037178,0.651548,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+126,85101,0.189807,0.810193,0.036027,0.656413,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+127,84902,0.635839,0.364161,0.404292,0.132613,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+128,84989,0.662077,0.337923,0.438346,0.114192,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+129,83829,0.90191,0.09809,0.813442,0.009622,K1,"od, sc",Konservatif / Induksi / Partus spontan,"od,sc",konservatif / induksi / partus spontan,Perlu Review
+130,88561,0.898583,0.101417,0.807452,0.010285,K1,sctp,Konservatif / Induksi / Partus spontan,sctp,konservatif / induksi / partus spontan,Perlu Review
+131,65513,0.193999,0.806001,0.037636,0.649637,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+132,30989,0.24734,0.75266,0.061177,0.566497,K2,sctp,SC cito / SC,sctp,sc cito / sc,Selaras
+133,84721,0.204336,0.795664,0.041753,0.633082,K2,partus spontan,SC cito / SC,partus spontan,sc cito / sc,Perlu Review
+134,46297,0.254997,0.745003,0.065024,0.555029,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+135,83030,0.186373,0.813627,0.034735,0.661989,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+136,82379,0.261274,0.738726,0.068264,0.545717,K2,partus spontan,SC cito / SC,partus spontan,sc cito / sc,Perlu Review
+137,83142,0.703918,0.296082,0.4955,0.087665,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+138,82471,0.186779,0.813221,0.034886,0.661329,K2,"od, sc",SC cito / SC,"od,sc",sc cito / sc,Selaras
+139,88369,0.322217,0.677783,0.103824,0.459389,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+140,87596,0.682308,0.317692,0.465544,0.100928,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+141,85362,0.202044,0.797956,0.040822,0.636734,K2,"sc, od",SC cito / SC,"sc,od",sc cito / sc,Selaras
+142,87789,0.885467,0.114533,0.784052,0.013118,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+143,51342,0.211751,0.788249,0.044838,0.621337,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+144,58850,0.215565,0.784435,0.046468,0.615339,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+145,85548,0.650182,0.349818,0.422737,0.122372,K1,"perawatan konservatif, nst",Konservatif / Induksi / Partus spontan,"perawatan konservatif,nst",konservatif / induksi / partus spontan,Perlu Review
+146,87964,0.186791,0.813209,0.034891,0.661308,K2,sctp,SC cito / SC,sctp,sc cito / sc,Selaras
+147,87254,0.914791,0.085209,0.836842,0.007261,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+148,86417,0.382695,0.617305,0.146456,0.381065,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+149,83858,0.288421,0.711579,0.083186,0.506345,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+150,85971,0.270291,0.729709,0.073057,0.532476,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+151,74167,0.252158,0.747842,0.063584,0.559268,K2,partus spontan,SC cito / SC,partus spontan,sc cito / sc,Perlu Review
+152,34095,0.188206,0.811794,0.035421,0.65901,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+153,83843,0.263338,0.736662,0.069347,0.542671,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+154,78773,0.914445,0.085555,0.836209,0.00732,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+155,86953,0.683861,0.316139,0.467666,0.099944,K1,sctp,Konservatif / Induksi / Partus spontan,sctp,konservatif / induksi / partus spontan,Perlu Review
+156,76273,0.190332,0.809668,0.036226,0.655563,K2,sctp,SC cito / SC,sctp,sc cito / sc,Selaras
+157,42343,0.186702,0.813298,0.034858,0.661454,K2,cito sc,SC cito / SC,cito sc,sc cito / sc,Selaras
+158,78882,0.677343,0.322657,0.458794,0.104107,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+159,84456,0.250243,0.749757,0.062622,0.562136,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+160,78671,0.875096,0.124904,0.765792,0.015601,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+161,84449,0.805765,0.194235,0.649257,0.037727,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+162,78979,0.184396,0.815604,0.034002,0.665211,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+163,86554,0.193691,0.806309,0.037516,0.650135,K2,sctp,SC cito / SC,sctp,sc cito / sc,Selaras
+164,57707,0.67421,0.32579,0.454559,0.106139,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+165,83952,0.676835,0.323165,0.458106,0.104436,K1,sctp,Konservatif / Induksi / Partus spontan,sctp,konservatif / induksi / partus spontan,Perlu Review
+166,77787,0.881175,0.118825,0.77647,0.014119,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+167,83442,0.828322,0.171678,0.686118,0.029473,K1,"sc, nst",Konservatif / Induksi / Partus spontan,"sc,nst",konservatif / induksi / partus spontan,Perlu Review
+168,76497,0.881972,0.118028,0.777874,0.013931,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+169,73468,0.225563,0.774437,0.050879,0.599753,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+170,77798,0.256766,0.743234,0.065929,0.552397,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+171,82967,0.228889,0.771111,0.05239,0.594612,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+172,54244,0.881711,0.118289,0.777415,0.013992,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+173,86261,0.197035,0.802965,0.038823,0.644753,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+174,82730,0.682942,0.317058,0.466409,0.100526,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+175,24058,0.219917,0.780083,0.048363,0.60853,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+176,81818,0.830738,0.169262,0.690125,0.02865,K1,partus spontan,Konservatif / Induksi / Partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
+177,78949,0.875096,0.124904,0.765792,0.015601,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+178,81713,0.254754,0.745246,0.0649,0.555392,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+179,83467,0.235356,0.764644,0.055392,0.584681,K2,partus spontan,SC cito / SC,partus spontan,sc cito / sc,Perlu Review
+180,79770,0.775098,0.224902,0.600776,0.050581,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+181,83355,0.664709,0.335291,0.441838,0.11242,K1,sctp,Konservatif / Induksi / Partus spontan,sctp,konservatif / induksi / partus spontan,Perlu Review
+182,81595,0.881752,0.118248,0.777486,0.013983,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+183,83455,0.210472,0.789528,0.044298,0.623355,K2,"od, sc",SC cito / SC,"od,sc",sc cito / sc,Selaras
+184,58283,0.88392,0.11608,0.781314,0.013475,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+185,88852,0.914738,0.085262,0.836746,0.00727,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+186,81972,0.645892,0.354108,0.417176,0.125393,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+187,54954,0.214178,0.785822,0.045872,0.617517,K2,"induksi, kuret",SC cito / SC,"induksi,kuret",sc cito / sc,Perlu Review
+188,78187,0.253358,0.746642,0.06419,0.557474,K2,partus spontan,SC cito / SC,partus spontan,sc cito / sc,Perlu Review
+189,78668,0.900978,0.099022,0.811761,0.009805,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+190,77631,0.251033,0.748967,0.063018,0.560952,K2,partus spontan,SC cito / SC,partus spontan,sc cito / sc,Perlu Review
+191,78949,0.875096,0.124904,0.765792,0.015601,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+192,77088,0.756464,0.243536,0.572237,0.05931,K1,konservatif,Konservatif / Induksi / Partus spontan,konservatif,konservatif / induksi / partus spontan,Perlu Review
+193,87557,0.189666,0.810334,0.035973,0.656641,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+194,61198,0.230902,0.769098,0.053316,0.591512,K2,sctp,SC cito / SC,sctp,sc cito / sc,Selaras
+195,82353,0.681148,0.318852,0.463962,0.101667,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+196,62676,0.914598,0.085402,0.836489,0.007294,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+197,85148,0.898583,0.101417,0.807452,0.010285,K1,sctp,Konservatif / Induksi / Partus spontan,sctp,konservatif / induksi / partus spontan,Perlu Review
+198,79702,0.776229,0.223771,0.602531,0.050074,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+199,86159,0.230514,0.769486,0.053137,0.592109,K2,sctp,SC cito / SC,sctp,sc cito / sc,Selaras
+200,79712,0.873623,0.126377,0.763217,0.015971,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+201,54244,0.214387,0.785613,0.045962,0.617188,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+202,79720,0.884282,0.115718,0.781955,0.013391,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+203,50542,0.270351,0.729649,0.073089,0.532388,K2,"sc, od",SC cito / SC,"sc,od",sc cito / sc,Selaras
+204,31610,0.189937,0.810063,0.036076,0.656202,K2,sctp,SC cito / SC,sctp,sc cito / sc,Selaras
+205,82669,0.233717,0.766283,0.054624,0.58719,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+206,78884,0.203253,0.796747,0.041312,0.634806,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+207,85054,0.886279,0.113721,0.78549,0.012933,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+208,75041,0.683579,0.316421,0.46728,0.100122,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+209,82253,0.274014,0.725986,0.075083,0.527056,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+210,44025,0.657277,0.342723,0.432013,0.117459,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+211,81957,0.243135,0.756865,0.059115,0.572845,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+212,79851,0.905037,0.094963,0.819091,0.009018,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+213,77756,0.293438,0.706562,0.086106,0.499229,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+214,78592,0.827366,0.172634,0.684534,0.029803,K1,partus spontan,Konservatif / Induksi / Partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
+215,78948,0.205813,0.794187,0.042359,0.630732,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+216,80084,0.197947,0.802053,0.039183,0.643289,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+217,82945,0.684191,0.315809,0.468118,0.099735,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+218,78132,0.87926,0.12074,0.773097,0.014578,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+219,89088,0.227415,0.772585,0.051718,0.596887,K2,sctp,SC cito / SC,sctp,sc cito / sc,Selaras
+220,80866,0.914538,0.085462,0.83638,0.007304,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+221,83974,0.245076,0.754924,0.060062,0.56991,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+222,80884,0.586417,0.413583,0.343885,0.171051,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+223,84187,0.195789,0.804211,0.038333,0.646756,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+224,79205,0.880499,0.119501,0.775278,0.014281,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+225,83890,0.85706,0.14294,0.734552,0.020432,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+226,79525,0.254404,0.745596,0.064722,0.555913,K2,partus spontan,SC cito / SC,partus spontan,sc cito / sc,Perlu Review
+227,80494,0.905037,0.094963,0.819091,0.009018,K1,partus spontan,Konservatif / Induksi / Partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
+228,80926,0.89391,0.10609,0.799075,0.011255,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+229,81781,0.729949,0.270051,0.532826,0.072927,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+230,78701,0.650764,0.349236,0.423493,0.121966,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+231,77937,0.203749,0.796251,0.041514,0.634015,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+232,81069,0.692185,0.307815,0.479121,0.09475,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+234,50321,0.235627,0.764373,0.05552,0.584266,K2,sctp,SC cito / SC,sctp,sc cito / sc,Selaras
+235,87380,0.756559,0.243441,0.572381,0.059264,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+236,81564,0.633435,0.366565,0.401239,0.13437,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+237,87498,0.658888,0.341112,0.434133,0.116358,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+238,84297,0.673676,0.326324,0.453839,0.106487,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+239,85773,0.911332,0.088668,0.830526,0.007862,K1,"nst, od, sc",Konservatif / Induksi / Partus spontan,"nst,od,sc",konservatif / induksi / partus spontan,Perlu Review
+240,84547,0.873551,0.126449,0.763092,0.015989,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+241,83790,0.661171,0.338829,0.437147,0.114805,K1,"od, sc",Konservatif / Induksi / Partus spontan,"od,sc",konservatif / induksi / partus spontan,Perlu Review
+242,84788,0.67047,0.32953,0.44953,0.10859,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+243,78086,0.278361,0.721639,0.077485,0.520763,K2,"od, sc",SC cito / SC,"od,sc",sc cito / sc,Selaras
+244,84816,0.251396,0.748604,0.0632,0.560409,K2,partus spontan,SC cito / SC,partus spontan,sc cito / sc,Perlu Review
+245,84195,0.250633,0.749367,0.062817,0.561551,K2,partus spontan,SC cito / SC,partus spontan,sc cito / sc,Perlu Review
+246,84864,0.286147,0.713853,0.08188,0.509586,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+247,78880,0.246042,0.753958,0.060537,0.568453,K2,"od, sc",SC cito / SC,"od,sc",sc cito / sc,Selaras
+248,84871,0.829783,0.170217,0.68854,0.028974,K1,partus spontan,Konservatif / Induksi / Partus spontan,partus spontan,konservatif / induksi / partus spontan,Selaras
+249,64788,0.856748,0.143252,0.734017,0.020521,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+250,40605,0.254631,0.745369,0.064837,0.555575,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
+251,84886,0.87926,0.12074,0.773097,0.014578,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+252,84889,0.65296,0.34704,0.426357,0.120436,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+253,84916,0.728625,0.271375,0.530894,0.073644,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+254,85017,0.677145,0.322855,0.458525,0.104236,K1,sc,Konservatif / Induksi / Partus spontan,sc,konservatif / induksi / partus spontan,Perlu Review
+255,84661,0.357107,0.642893,0.127525,0.413312,K2,sc,SC cito / SC,sc,sc cito / sc,Selaras
