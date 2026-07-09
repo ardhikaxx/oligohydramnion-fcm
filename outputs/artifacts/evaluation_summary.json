@@ -1,0 +1,24 @@
+{
+  "pc_final": 0.6434953916075411,
+  "pc_interpretasi": "Baik",
+  "iterations_run": 26,
+  "cluster_counts": {
+    "Mild": 85,
+    "Moderate": 85,
+    "Severe": 83
+  },
+  "visualizations": {
+    "scatter": "D:\\klasterisasi_oligohydramnion\\outputs\\visualisasi_scatter_plot.png",
+    "membership": "D:\\klasterisasi_oligohydramnion\\outputs\\visualisasi_membership_degree.png",
+    "radar": "D:\\klasterisasi_oligohydramnion\\outputs\\visualisasi_radar_chart.png",
+    "heatmap": "D:\\klasterisasi_oligohydramnion\\outputs\\visualisasi_heatmap.png",
+    "boxplot": "D:\\klasterisasi_oligohydramnion\\outputs\\visualisasi_boxplot.png",
+    "pc_validation": "D:\\klasterisasi_oligohydramnion\\outputs\\visualisasi_validasi_pc.png",
+    "ternary": "D:\\klasterisasi_oligohydramnion\\outputs\\visualisasi_ternary_plot.png",
+    "parallel_coords": "D:\\klasterisasi_oligohydramnion\\outputs\\visualisasi_parallel_coordinates_smooth.png",
+    "sankey": "D:\\klasterisasi_oligohydramnion\\outputs\\visualisasi_sankey_tindakan.html",
+    "sunburst": "D:\\klasterisasi_oligohydramnion\\outputs\\visualisasi_sunburst_tindakan.html",
+    "scatter_3d": "D:\\klasterisasi_oligohydramnion\\outputs\\visualisasi_3d_scatter.html"
+  },
+  "evaluation_output": "D:\\klasterisasi_oligohydramnion\\outputs\\evaluasi\\output_evaluasi_tindakan.csv"
+}
